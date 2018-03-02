@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resource xmlns:icons="/lu-res/icons/"
-          rel="self" href="/lu-xml/table/objects/page-2.xlu">
-  <link rel="previous" href="/lu-xml/table/objects/page-1.xlu">
-  <link rel="next" href="/lu-xml/table/objects/page-3.xlu">
-  <resource rel="object" href="/lu-xml/table/objects/0/0/3/object-96.xlu">
+          rel="self" href="/lu-xml/tables/objects/page-2.xlu">
+  <link rel="previous" href="/lu-xml/tables/objects/page-1.xlu">
+  <link rel="next" href="/lu-xml/tables/objects/page-3.xlu">
+  <resource rel="object" href="/lu-xml/tables/objects/0/0/3/object-96.xlu">
     <link rel="icons:icon" href="12356.png">
     <id>96</id>
     <description>A Sample Item</description>
   </resource>
-  <resource rel="object" href="/lu-xml/table/objects/0/0/3/object-97.xlu">
+  <resource rel="object" href="/lu-xml/tables/objects/0/0/3/object-97.xlu">
     <link rel="icons:icon" href="12323.png">
     <id>97</id>
     <description>Another Sample Item</description>
