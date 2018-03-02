@@ -37,7 +37,7 @@ for easy discoverability
 
 ## Example
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <resource xmlns:icons="/lu-res/icons/"
           rel="self" href="/lu-xml/table/objects/page-2.xlu">
